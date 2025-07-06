@@ -295,7 +295,7 @@ Select an option to parse:
 				time.sleep(1)
 				break	#exits loop
 
-			else:	#when user inputs an nvalid option.
+			else:	#when user inputs an invalid option.
 				print('[!] Invalid input! Please try again.\n')	
 
 		#end of option 2
